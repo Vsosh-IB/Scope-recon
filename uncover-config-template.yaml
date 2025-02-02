@@ -1,0 +1,7 @@
+#add your API keys here
+shodan:
+  - ""
+censys:
+  - ""
+netlas:
+  - ""
